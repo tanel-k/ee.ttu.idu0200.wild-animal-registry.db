@@ -1,3 +1,6 @@
+-- http://www.catalogueoflife.org/DCA_Export/index.php
+-- Top level group: Animalia
+-- Filtered and cleaned to include only English names
 INSERT INTO species(vernacular_name) VALUES
 ('(Bismarck) Ringed python'),
 ('(Brown or) Red Whip Snake'),
